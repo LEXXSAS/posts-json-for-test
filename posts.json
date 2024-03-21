@@ -6,7 +6,8 @@
         "title":"first post",
         "desc": "hello",
         "img": "image/img2.jpeg",
-        "uid": 4,
+        "date": null,
+        "uid": 1,
         "cat": "art"
       }
     ]
